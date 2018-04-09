@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+input/game.rar
+input/sample_submission.csv
+input/test.csv
+input/train.csv
+input/DataDictionary.xlsx
