@@ -104,3 +104,5 @@ input/sample_submission.csv
 input/test.csv
 input/train.csv
 input/DataDictionary.xlsx
+.vs/
+dump/
