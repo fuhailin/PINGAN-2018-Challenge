@@ -106,3 +106,6 @@ input/train.csv
 input/DataDictionary.xlsx
 .vs/
 dump/
+.idea/
+input/
+submission/
